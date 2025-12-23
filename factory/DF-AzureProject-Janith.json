@@ -1,0 +1,9 @@
+{
+	"name": "DF-AzureProject-Janith",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "af79b8e9-831f-4d7f-9855-3b87a5f670e2",
+		"tenantId": "3ce8261a-a282-44f6-bdb7-c7340c7fdf22"
+	}
+}
