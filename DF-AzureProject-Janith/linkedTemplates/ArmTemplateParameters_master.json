@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "DF-AzureProject-Janith"
+		},
+		"azure_Sql_password": {
+			"value": ""
+		},
+		"datalake_accountKey": {
+			"value": ""
+		},
+		"azure_Sql_properties_typeProperties_server": {
+			"value": "azureprojectserverjanith.database.windows.net"
+		},
+		"azure_Sql_properties_typeProperties_database": {
+			"value": "azureprojectdbjanith"
+		},
+		"azure_Sql_properties_typeProperties_userName": {
+			"value": "adminjanith"
+		},
+		"datalake_properties_typeProperties_url": {
+			"value": "https://storageazureproject.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
